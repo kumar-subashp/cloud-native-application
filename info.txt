@@ -1,0 +1,33 @@
+SpringBoot :
+
+  - @PathVariable
+  - method=RequestMethod.POST, value="/topics"
+  - @RequestBody Topic topic
+  - contentType=application/json
+  - 
+
+https://github.com/bijukunjummen
+
+Topic :
+{
+	"id" : "Java",
+	"name" : "Java 8",
+	"description" : "Details on Java8"
+}
+
+course :
+{
+        "id": "java-stream",
+        "name": "Java Streams",
+        "description": "Java Stream Course Details",
+        "topic": {
+            "id": "Java",
+            "name": "Java 8",
+            "description": "Details on Java8"
+        }
+    }
+
+http://localhost:8080/actuator/refresh
+
+
+brew info gradle
