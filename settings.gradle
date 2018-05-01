@@ -1,2 +1,8 @@
 rootProject.name = 'cloud-native-application'
 
+include 'eureka-server'
+include 'zuul-api-gateway'
+include 'config-server'
+include 'topic-service'
+
+

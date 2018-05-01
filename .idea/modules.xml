@@ -3,11 +3,18 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/cloud-native-application.iml" filepath="$PROJECT_DIR$/.idea/modules/cloud-native-application.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cloud-native-application_main.iml" filepath="$PROJECT_DIR$/.idea/modules/cloud-native-application_main.iml" group="cloud-native-application" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cloud-native-application_test.iml" filepath="$PROJECT_DIR$/.idea/modules/cloud-native-application_test.iml" group="cloud-native-application" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/config-server.iml" filepath="$PROJECT_DIR$/.idea/modules/config-server.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/config-server_main.iml" filepath="$PROJECT_DIR$/.idea/modules/config-server_main.iml" group="config-server" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/config-server_test.iml" filepath="$PROJECT_DIR$/.idea/modules/config-server_test.iml" group="config-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/config-server/config-server.iml" filepath="$PROJECT_DIR$/.idea/modules/config-server/config-server.iml" group="config-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/config-server/config-server_main.iml" filepath="$PROJECT_DIR$/.idea/modules/config-server/config-server_main.iml" group="config-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/config-server/config-server_test.iml" filepath="$PROJECT_DIR$/.idea/modules/config-server/config-server_test.iml" group="config-server" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" group="eureka-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-server_main.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-server_main.iml" group="eureka-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-server_test.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-server_test.iml" group="eureka-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/topic-service.iml" filepath="$PROJECT_DIR$/.idea/modules/topic-service.iml" group="topic-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/topic-service_main.iml" filepath="$PROJECT_DIR$/.idea/modules/topic-service_main.iml" group="topic-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/topic-service_test.iml" filepath="$PROJECT_DIR$/.idea/modules/topic-service_test.iml" group="topic-service" />
+      <module fileurl="file://$PROJECT_DIR$/zuul-api-gateway/zuul-api-gateway.iml" filepath="$PROJECT_DIR$/zuul-api-gateway/zuul-api-gateway.iml" group="zuul-api-gateway" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/zuul-api-gateway_main.iml" filepath="$PROJECT_DIR$/.idea/modules/zuul-api-gateway_main.iml" group="zuul-api-gateway" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/zuul-api-gateway_test.iml" filepath="$PROJECT_DIR$/.idea/modules/zuul-api-gateway_test.iml" group="zuul-api-gateway" />
     </modules>
   </component>
 </project>
