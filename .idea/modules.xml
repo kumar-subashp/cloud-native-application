@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/application-web-ui/application-web-ui.iml" filepath="$PROJECT_DIR$/application-web-ui/application-web-ui.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/cloud-native-application.iml" filepath="$PROJECT_DIR$/.idea/modules/cloud-native-application.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/config-server/config-server.iml" filepath="$PROJECT_DIR$/.idea/modules/config-server/config-server.iml" group="config-server" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/config-server/config-server_main.iml" filepath="$PROJECT_DIR$/.idea/modules/config-server/config-server_main.iml" group="config-server" />
@@ -9,6 +10,9 @@
       <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" group="eureka-server" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-server_main.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-server_main.iml" group="eureka-server" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-server_test.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-server_test.iml" group="eureka-server" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-task/spring-cloud-task.iml" filepath="$PROJECT_DIR$/spring-cloud-task/spring-cloud-task.iml" group="spring-cloud-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-cloud-task_main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-cloud-task_main.iml" group="spring-cloud-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-cloud-task_test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-cloud-task_test.iml" group="spring-cloud-task" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/topic-service.iml" filepath="$PROJECT_DIR$/.idea/modules/topic-service.iml" group="topic-service" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/topic-service_main.iml" filepath="$PROJECT_DIR$/.idea/modules/topic-service_main.iml" group="topic-service" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/topic-service_test.iml" filepath="$PROJECT_DIR$/.idea/modules/topic-service_test.iml" group="topic-service" />

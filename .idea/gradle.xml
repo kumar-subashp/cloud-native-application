@@ -11,6 +11,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/config-server" />
             <option value="$PROJECT_DIR$/eureka-server" />
+            <option value="$PROJECT_DIR$/spring-cloud-task" />
             <option value="$PROJECT_DIR$/topic-service" />
             <option value="$PROJECT_DIR$/zuul-api-gateway" />
           </set>
@@ -42,6 +43,16 @@
             <option value="$PROJECT_DIR$/eureka-server" />
             <option value="$PROJECT_DIR$/topic-service" />
             <option value="$PROJECT_DIR$/zuul-api-gateway" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/spring-cloud-task" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../gradle-4.4.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/spring-cloud-task" />
           </set>
         </option>
       </GradleProjectSettings>

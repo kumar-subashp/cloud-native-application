@@ -13,6 +13,13 @@
       <entry name="?*.tld" />
       <entry name="?*.ftl" />
     </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+      </profile>
+    </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="cloud-native-application_main" target="1.8" />
       <module name="cloud-native-application_test" target="1.8" />
@@ -24,6 +31,9 @@
       <module name="eureka-service_test" target="1.8" />
       <module name="gs-service-registration-and-discovery_main" target="1.8" />
       <module name="gs-service-registration-and-discovery_test" target="1.8" />
+      <module name="spring-cloud-task" target="1.8" />
+      <module name="spring-cloud-task_main" target="1.8" />
+      <module name="spring-cloud-task_test" target="1.8" />
       <module name="topic-service_main" target="1.8" />
       <module name="topic-service_test" target="1.8" />
       <module name="zuul-api-gateway_main" target="1.8" />

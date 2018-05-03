@@ -1,6 +1,10 @@
 
 server:
   port: 8080
+  http2:
+    enabled: true
+  compression:
+    enabled: true
 
 spring:
   jpa:
@@ -18,7 +22,4 @@ eureka:
     register-with-eureka: true
     serviceUrl:
           defaultZone: http://localhost:8083/eureka/
-
-
-
 

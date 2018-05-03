@@ -1,0 +1,25 @@
+npm install
+npm config edit -- for proxy settings
+npm install -g @angular/cli
+npm install jquery --save
+
+ng g service topic
+ng g service course
+ng g c topic
+ng g c course
+
+ng v
+ng help
+
+
+ng test
+ng e2e
+
+ng build
+ng build --prod
+
+npm install bootstrap@3
+
+CORS : Cross Origin Resource Sharing
+Failed to load http://localhost:8080/topics: No 'Access-Control-Allow-Origin'
+header is present on the requested resource. Origin 'http://localhost:9999' is therefore not allowed access.

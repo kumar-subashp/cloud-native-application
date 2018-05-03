@@ -1,0 +1,17 @@
+<p>
+  topic works!
+</p>
+
+
+<div class="row">
+  <div class="col-sm-4" *ngFor="let topic of topics">
+    <div class="panel-group">
+      <div class="panel panel-primary">
+        <div class="panel-heading">{{topic.id}}</div>
+        <div class="panel-body">{{topic.name}}</div>
+        <div class="panel-footer">{{topic.description}}</div>
+      </div>
+    </div>
+
+  </div>
+</div>

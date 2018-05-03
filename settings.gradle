@@ -4,5 +4,6 @@ include 'eureka-server'
 include 'zuul-api-gateway'
 include 'config-server'
 include 'topic-service'
+include 'spring-cloud-task'
 
 
